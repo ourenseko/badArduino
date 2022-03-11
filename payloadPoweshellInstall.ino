@@ -9,7 +9,7 @@ void setup() {
     delay(1350);
 
    
-  char strRutaUrl[] = "https://raw.githubusercontent.com/ourenseko/badArduino/cuentoLechera.jpg";
+  char strRutaUrl[] = "https://raw.githubusercontent.com/ourenseko/badArduino/main/cuentoLechera.jpg";
   char srtRutaPc[] = "Desktop";
   char strFile[] = "cuentoLechera.jpg";
   int intTimeDownload = 4; // seconds, (Mb Size * 4 ; min. 250Kb/s)  
