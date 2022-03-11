@@ -1,0 +1,3 @@
+Setup=wLauncher.vbs
+TempMode
+Silent=1
